@@ -1,4 +1,4 @@
-package homeWork1;
+package homework1;
 
 public class Task2 {
     public static void main(String[] args) {
@@ -9,10 +9,7 @@ public class Task2 {
                 if (a==7){
                     System.out.println(someArr2[i] +" + " + someArr2[j]+ " = "+ a);
                 }
-
             }
-
         }
-
     }
 }
